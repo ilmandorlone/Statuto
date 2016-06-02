@@ -14,13 +14,13 @@ Favorisce e sostiene lo sviluppo di tale cultura, persegue finalità di promozio
 # ART. 3 - (Soci)
 
 Sono ammesse all’Associazione tutte le persone fisiche che ne condividono gli scopi e accettano il presente statuto e l’eventuale regolamento interno.
-L’organo competente a deliberare sulle domande di ammissione è l’Assemblea 
-(oppure* il Consiglio Direttivo). 
+L’organo competente a deliberare sulle domande di ammissione è il Consiglio Direttivo.
 Il diniego va motivato. Il richiedente, nella domanda di ammissione dovrà specificare le proprie complete generalità impegnandosi a versare la quota associativa. 
-Ci sono 3 categorie di soci:
-ordinari: sono coloro che versano la quota di iscrizione annualmente stabilita dall’Assemblea,
-sostenitori: sono coloro che oltre alla quota ordinaria, erogano contribuzioni volontarie straordinarie,
-benemeriti: sono persone nominate tali dall’Assemblea per meriti particolari acquisiti a favore dell’Associazione.
+Ci sono 4 categorie di soci:
+Common: sono coloro che versano la quota di iscrizione annualmente stabilita dall’Assemblea,
+Supporter: sono coloro che oltre alla quota ordinaria, erogano contribuzioni volontarie straordinarie,
+Boss: sono persone nominate tali dall’Assemblea per meriti particolari acquisiti a favore dell’Associazione.
+Admin: sono le persone facenti parte del consiglio direttivo che hanno il diritto e il dovere di sorvegliare ed organizzare eventi e incontri ordinari, sono responsabili quando presenti degli spazi ed attrezzature utilizzate dall'associazione.
 4.	Non è ammessa la categoria dei soci temporanei. La quota associativa è intrasmissibile.
 
 # ART. 4 - (Diritti e doveri dei soci)
