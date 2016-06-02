@@ -44,54 +44,49 @@ E’ comunque ammesso ricorso al giudice ordinario.
 
 Gli organi dell’associazione sono:
 Assemblea dei soci,
-Consiglio direttivo,
-Presidente,
-Collegio dei Revisori dei Conti (organo eventuale.),
-Collegio dei Probiviri (organo eventuale).
+Consiglio direttivo.
 Tutte le cariche sociali sono assunte a titolo gratuito.
 
 # ART. 7 - (Assemblea)
 
 L’Assemblea è l’organo sovrano dell’associazione ed è composta da tutti i soci.
-E’ convocata almeno una volta all’anno dal Presidente dell’associazione o da chi ne fa le veci mediante avviso scritto da inviare almeno 10 giorni prima di quello fissato per l’adunanza e contenente l’ordine del giorno dei lavori;
-L’Assemblea è inoltre convocata a richiesta di almeno un decimo dei soci o quando il Consiglio direttivo lo ritiene necessario.
-L’Assemblea può essere ordinaria o straordinaria. E’ straordinaria quella convocata per la modifica dello statuto e lo scioglimento dell’associazione. E’ ordinaria in tutti gli altri casi.
+E’ convocata almeno una volta all’anno dal Consiglio Direttivo dell’associazione o da chi ne fa le veci mediante avviso scritto da inviare almeno 10 giorni prima di quello fissato per l’adunanza e contenente l’ordine del giorno dei lavori;
+L’Assemblea è inoltre convocata a richiesta di almeno un decimo dei soci o quando il Consiglio Direttivo lo ritiene necessario.
+L’Assemblea può essere ordinaria o straordinaria. E’ straordinaria quella convocata per la modifica dello statuto e lo scioglimento dell’Associazione. E’ ordinaria in tutti gli altri casi.
 
 # ART. 8 - (Compiti dell’Assemblea)
 
 L’assemblea deve:
 approvare il rendiconto conto consuntivo e preventivo;
-fissare l’importo della quota sociale annuale;
 determinare le linee generali programmatiche dell’attività dell’associazione;
-approvare l’eventuale regolamento interno;
+approvare il regolamento interno;
 deliberare in via definitiva sulle domande di nuove adesioni e sulla esclusione dei soci;
-eleggere il Presidente e il Consiglio Direttivo;
+eleggere il Consiglio Direttivo;
 deliberare su quant’altro demandatole per legge o per statuto, o sottoposto al suo esame dal Consiglio direttivo.
 
 # ART. 9 - (Validità Assemblee)
 
 L’assemblea ordinaria è regolarmente costituita in prima convocazione se è presente la maggioranza degli iscritti aventi diritto di voto; in seconda convocazione, da tenersi anche nello stesso giorno, qualunque sia il numero dei presenti, in proprio o in delega.
 Non è ammessa più di una delega per ciascun aderente. 
-(oppure * Non sono ammesse più di tre deleghe per ciascun aderente).
 Le deliberazioni dell’assemblea ordinaria vengono prese a maggioranza dei presenti e rappresentati per delega, sono espresse con voto palese tranne quelle riguardanti le persone e la qualità delle persone (o quando l’Assemblea lo ritenga opportuno).
-L’assemblea straordinaria approva eventuali modifiche allo statuto con la presenza di 3/4 dei soci (Oppure * con la presenza dei 2/3 dei soci Oppure * con la presenza della metà più uno dei soci) e con decisione deliberata a maggioranza dei presenti; scioglie l’associazione e ne devolve il patrimonio col voto favorevole di ¾ dei soci.
+L’assemblea straordinaria approva eventuali modifiche allo statuto con la presenza dei 2/3 dei soci e con decisione deliberata a maggioranza dei presenti; scioglie l’associazione e ne devolve il patrimonio col voto favorevole di 3/4 dei soci.
 (Se prevista anche per l’assemblea straordinaria, la seconda convocazione non può derogare le maggioranze previste per la prima).
 
 # ART. 10 - (Verbalizzazione)
 
-1.	Le discussioni e le deliberazioni dell’assemblea sono riassunte in un verbale redatto dal segretario (Oppure * da un componente dell’assemblea appositamente nominato) e sottoscritto dal presidente.
+1.	Le discussioni e le deliberazioni dell’assemblea sono riassunte in un verbale redatto dal segretario e sottoscritto dal presidente.
 2.	Ogni socio ha diritto di consultare il verbale e di trarne copia.
 
 # ART. 11 - (Consiglio direttivo)
 
-Il consiglio direttivo è composto da numero…… (precisare il numero dei componenti che deve essere dispari non inferiore a tre) membri eletti dall’assemblea tra i propri componenti.
-Il consiglio direttivo è validamente costituito  quando è presente la maggioranza dei componenti. (Nel caso in cui il consiglio direttivo fosse composto da soli tre membri, è validamente costituito quando sono presenti tutti). Esso delibera a maggioranza dei presenti.
-Il Consiglio direttivo compie tutti gli atti di ordinaria e straordinaria amministrazione non espressamente demandati all’Assemblea; redige e presenta all’assemblea il rapporto annuale sull’attività dell’associazione, il rendiconto consuntivo e preventivo.
-Il consiglio direttivo dura in carica per n. ……. anni (stabilire la durata) e i suoi componenti possono essere rieletti per n. ...… mandati (stabilire il numero massimo dei mandati).
+Il Consiglio Direttivo è composto da 3 a 7 membri eletti dall’assemblea tra i propri componenti.
+Il Consiglio Direttivo è validamente costituito quando è presente la maggioranza dei componenti. (Nel caso in cui il consiglio direttivo fosse composto da soli tre membri, è validamente costituito quando sono presenti tutti). Esso delibera a maggioranza dei presenti.
+Il Consiglio Direttivo compie tutti gli atti di ordinaria e straordinaria amministrazione non espressamente demandati all’Assemblea; redige e presenta all’assemblea il rapporto annuale sull’attività dell’associazione, il rendiconto consuntivo e preventivo.
+Il Consiglio Direttivo dura in carica per n. 3 anni e i suoi componenti possono essere rieletti per n. 1 mandato.
 
 # ART. 12 - (Presidente) 
 
-Il Presidente ha la legale rappresentanza dell’associazione, presiede il Consiglio direttivo e l’assemblea; convoca l’assemblea dei soci e il Consiglio direttivo sia in caso di convocazioni ordinarie che straordinarie.
+Il Presidente ha la legale rappresentanza dell’associazione, è un membro del Consiglio Direttivo e presiede l’assemblea; convoca l’assemblea dei soci e il Consiglio Direttivo sia in caso di convocazioni ordinarie che straordinarie.
 
 # ART. 13 - (Risorse economiche)
 
