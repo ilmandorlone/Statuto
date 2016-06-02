@@ -7,33 +7,35 @@ Il trasferimento della sede legale non comporta modifica statutaria, ma l’obbl
 
 # ART. 2 - (Finalità)
 
-L’associazione è apartitica, non ha scopo di lucro e svolge attività di promozione e utilità sociale.
-L'obiettivo che si propone è di riunire le persone che hanno interessi comuni nel campo della tecnologia, nello specifico dell'elettronica e dell'informatica; collaborando e condividendo conoscenze ed attrezzzature.
-Favorisce e sostiene lo sviluppo di tale cultura, persegue finalità di promozione, utilità e solidarietà sociale attraverso la diffusione dei principi dell'hardware e software libero.
+L’Associazione è apartitica, non ha scopo di lucro e svolge attività di promozione e utilità sociale.
+L'obiettivo che si propone è di riunire le persone che hanno interessi comuni nel campo della tecnologia, nello specifico dell'elettronica e informatica; collaborando e condividendo conoscenze ed attrezzature.
+Favorisce e sostiene lo sviluppo di tale cultura, persegue finalità di promozione, utilità e solidarietà sociale, attraverso la diffusione dei principi dell'hardware e software libero; anche al pubblico utilizzando pubblicazioni e supporti audiovisivi.
+Per il conseguimento delle proprie finalità l'Associazione potrà, sia direttamente sia in collaborazione con altre organizzazioni ed enti aventi simili fini istituzionali: organizzare, supportare o patrocinare eventi, fiere, seminari, convegni, conferenze, corsi, workshop.
+L'Associazione può svolgere ogni attività, anche diverse da quelle sopra indicate, purché  direttamente o indirettamente connesse a quelle statutarie, o quelle accessorie per natura in quanto integrative delle stesse.
 
 # ART. 3 - (Soci)
 
 Sono ammesse all’Associazione tutte le persone fisiche che ne condividono gli scopi e accettano il presente statuto e l’eventuale regolamento interno.
 L’organo competente a deliberare sulle domande di ammissione è il Consiglio Direttivo.
 Il diniego va motivato. Il richiedente, nella domanda di ammissione dovrà specificare le proprie complete generalità impegnandosi a versare la quota associativa. 
-Ci sono 4 categorie di soci:
+Ci sono 5 categorie di soci:
 Common: sono coloro che versano la quota di iscrizione annualmente stabilita dall’Assemblea,
+Tosat: sono i soci studenti che hanno diritto ad uno sconto sulla quota di iscrizione annuale,
 Supporter: sono coloro che oltre alla quota ordinaria, erogano contribuzioni volontarie straordinarie,
-Boss: sono persone nominate tali dall’Assemblea per meriti particolari acquisiti a favore dell’Associazione.
-Admin: sono le persone facenti parte del consiglio direttivo che hanno il diritto e il dovere di sorvegliare ed organizzare eventi e incontri ordinari, sono responsabili quando presenti degli spazi ed attrezzature utilizzate dall'associazione.
-4.	Non è ammessa la categoria dei soci temporanei. La quota associativa è intrasmissibile.
+Boss: sono persone nominate tali dall’Assemblea per meriti particolari acquisiti a favore dell’Associazione,
+Admin: sono le persone facenti parte del Consiglio Direttivo che hanno il diritto e il dovere di sorvegliare ed organizzare eventi e incontri ordinari, sono responsabili quando presenti degli spazi ed attrezzature utilizzate dall'associazione. Inoltre hanno la responsabilità di gestire server di rete, siti web, mailing-list di propietà dell'associazione; pubblicare libri, riviste, newsletter; effettuare o commissionare studi e ricerche; partecipare a progetti e riunioni in Italia e altri paesi; collaborare con le altre attività simili del territorio ed assecondando, qualora lo ritenga opportuno, le iniziative che dovessero sorgere a livello locale; compiere tutte le operazioni mobiliari, immobiliari e finanziarie ritenute necessarie, utili e opportune alla realizzazione dei predetti scopi; stipulare accordi o convenzioni con enti pubblici o privati, aziende, altre associazioni, o qualunque altro soggetto, pubblico o privato.
+Non è ammessa la categoria dei soci temporanei. La quota associativa è intrasmissibile.
 
 # ART. 4 - (Diritti e doveri dei soci)
 
 I soci hanno diritto di eleggere gli organi sociali e di essere eletti negli stessi.
 Essi hanno diritto di essere informati sulle attività dell’associazione e di essere rimborsati per le spese effettivamente sostenute nello svolgimento dell’attività prestata.
-I soci devono versare nei termini la quota sociale e rispettare il presente statuto e l’eventuale regolamento interno.
+I soci devono versare nei termini la quota sociale e rispettare il presente statuto e il regolamento interno.
 Gli aderenti svolgeranno la propria attività nell’associazione prevalentemente in modo personale, volontario e gratuito, senza fini di lucro, anche indiretto, in ragione delle disponibilità personali.
 
 # ART. 5 - (Recesso ed esclusione del socio)
 
-Il socio può recedere dall’associazione mediante comunicazione scritta all’Assemblea 
-(Oppure *  al Consiglio direttivo). 
+Il socio può recedere dall’Associazione mediante comunicazione scritta al Consiglio Direttivo, la quota associativa in questo caso non viene rimborsata.
 Il socio che contravviene ai doveri stabiliti dallo statuto può essere escluso dall’Associazione. 
 L’esclusione è deliberata dall’Assemblea con voto segreto e dopo avere ascoltato le giustificazioni dell’interessato. 
 (Oppure * E’ ammessa la decisione dell’organo direttivo con possibilità di appello entro 30 gg all’assemblea). 
