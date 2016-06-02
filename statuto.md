@@ -15,7 +15,7 @@ L'Associazione può svolgere ogni attività, anche diverse da quelle sopra indic
 
 # ART. 3 - (Soci)
 
-Sono ammesse all’Associazione tutte le persone fisiche che ne condividono gli scopi e accettano il presente statuto e l’eventuale regolamento interno.
+Sono ammesse all’Associazione tutte le persone fisiche che ne condividono gli scopi e accettano il presente statuto e il regolamento interno.
 L’organo competente a deliberare sulle domande di ammissione è il Consiglio Direttivo.
 Il diniego va motivato. Il richiedente, nella domanda di ammissione dovrà specificare le proprie complete generalità impegnandosi a versare la quota associativa. 
 Ci sono 5 categorie di soci:
@@ -37,8 +37,7 @@ Gli aderenti svolgeranno la propria attività nell’associazione prevalentement
 
 Il socio può recedere dall’Associazione mediante comunicazione scritta al Consiglio Direttivo, la quota associativa in questo caso non viene rimborsata.
 Il socio che contravviene ai doveri stabiliti dallo statuto può essere escluso dall’Associazione. 
-L’esclusione è deliberata dall’Assemblea con voto segreto e dopo avere ascoltato le giustificazioni dell’interessato. 
-(Oppure * E’ ammessa la decisione dell’organo direttivo con possibilità di appello entro 30 gg all’assemblea). 
+L’esclusione è deliberata dall’Assemblea con voto segreto e dopo avere ascoltato le giustificazioni dell’interessato.  
 E’ comunque ammesso ricorso al giudice ordinario.
 
 # ART. 6 - (Organi sociali)
