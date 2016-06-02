@@ -90,20 +90,19 @@ Il Presidente ha la legale rappresentanza dell’associazione, è un membro del 
 
 # ART. 13 - (Risorse economiche)
 
-1.	Le risorse economiche dell’associazione sono costituite da:
-quote e contributi degli associati; 
-eredità, donazioni e legati; 
-contributi dello Stato, delle regioni, di enti locali, di enti o di istituzioni pubblici, anche finalizzati al sostegno di specifici e documentati programmi realizzati nell'ambito dei fini statutari; 
-contributi dell'Unione europea e di organismi internazionali; 
-entrate derivanti da prestazioni di servizi convenzionati; 
-(non inserire se l’associazione è ONLUS)
-proventi delle cessioni di beni e servizi agli associati e a terzi, anche attraverso lo svolgimento di attività economiche di natura commerciale, artigianale o agricola, svolte in maniera ausiliaria e sussidiaria e comunque finalizzate al raggiungimento degli obiettivi istituzionali; 
-erogazioni liberali degli associati e dei terzi; 
-entrate derivanti da iniziative promozionali finalizzate al proprio finanziamento, quali feste e sottoscrizioni anche a premi; 
-altre entrate compatibili con le finalità sociali dell'associazionismo di promozione sociale. 
+Le risorse economiche dell’associazione sono costituite da:
+- quote e contributi degli associati; 
+- eredità, donazioni e legati; 
+- contributi dello Stato, delle regioni, di enti locali, di enti o di istituzioni pubblici, anche finalizzati al sostegno di specifici e documentati programmi realizzati nell'ambito dei fini statutari; 
+- contributi dell'Unione europea e di organismi internazionali; 
+- entrate derivanti da prestazioni di servizi convenzionati; 
+- proventi delle cessioni di beni e servizi agli associati e a terzi, anche attraverso lo svolgimento di attività economiche di natura commerciale, artigianale o agricola, svolte in maniera ausiliaria e sussidiaria e comunque finalizzate al raggiungimento degli obiettivi istituzionali; 
+- erogazioni liberali degli associati e dei terzi; 
+- entrate derivanti da iniziative promozionali finalizzate al proprio finanziamento, quali feste e sottoscrizioni anche a premi; 
+- altre entrate compatibili con le finalità sociali dell'associazionismo di promozione sociale. 
 I proventi delle attività non possono, in nessun caso, essere divisi tra gli associati, anche in forma indiretta.
-L'associazione ha il divieto di distribuire, anche in modo indiretto, utili e avanzi di gestione nonché fondi, riserve o capitale durante la vita dell'associazione in aggiunta solo se opera per soggetti svantaggiati “a meno che la destinazione o la distribuzione non siano imposte per legge o siano effettuate a favore di altre ONLUS  che per legge, statuto o regolamento fanno parte della medesima ed unitaria struttura”. 
-L’associazione ha l'obbligo di impiegare gli utili o gli avanzi di gestione per la realizzazione delle attività istituzionali in aggiunta se opera per soggetti svantaggiati “e di quelle ad esse direttamente connesse”.
+L'associazione ha il divieto di distribuire, anche in modo indiretto, utili e avanzi di gestione nonché fondi, riserve o capitale durante la vita dell'associazione.
+L’associazione ha l'obbligo di impiegare gli utili o gli avanzi di gestione per la realizzazione delle attività istituzionali.
 
 # ART. 14 - (Rendiconto economico-finanziario)
 
