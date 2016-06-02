@@ -107,15 +107,13 @@ L’associazione ha l'obbligo di impiegare gli utili o gli avanzi di gestione pe
 # ART. 14 - (Rendiconto economico-finanziario)
 
 Il rendiconto economico-finanziario dell’associazione è annuale e decorre dal primo gennaio di ogni anno. Il conto consuntivo contiene tutte le entrate e le spese sostenute relative all’anno trascorso. Il conto preventivo contiene le previsioni di spesa e di entrata per l’esercizio annuale successivo.
-Il rendiconto economico-finanziario è predisposto dal Consiglio direttivo e approvato dall’assemblea generale ordinaria con le maggioranze previste dal presente statuto, depositato presso la sede dell’associazione almeno 20 gg. prima dell’assemblea e può essere consultato da ogni associato.
+Il rendiconto economico-finanziario è predisposto dal Consiglio Direttivo e approvato dall’assemblea generale ordinaria con le maggioranze previste dal presente statuto, depositato presso la sede dell’associazione almeno 20 gg. prima dell’assemblea e può essere consultato da ogni associato.
 Il conto consuntivo deve essere approvato entro il 30 aprile dell’anno successivo alla chiusura dell’esercizio sociale.
 
 # ART. 15 - (Scioglimento e devoluzione del patrimonio)
 
 L’eventuale scioglimento dell’Associazione sarà deciso soltanto dall’assemblea con le modalità di cui all’art. 9.
 In tal caso, il patrimonio, dopo la liquidazione, sarà devoluto a finalità di utilità sociale.
-Oppure * solo se opera per soggetti svantaggiati: 
-L'associazione avrà l'obbligo di devolvere il patrimonio dell'organizzazione, in caso di suo scioglimento per qualunque causa, ad altre ONLUS o organizzazioni a fini di pubblica utilità, salvo diversa destinazione imposta dalla legge.
 
 # ART. 16 - (Disposizioni finali)
 
