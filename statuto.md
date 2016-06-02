@@ -5,16 +5,10 @@ con sede in via / piazza ………………….……………..…...…..,  ne
 
 Il trasferimento della sede legale non comporta modifica statutaria, ma l’obbligo di comunicazione agli uffici competenti.
 
-2.	in aggiunta se opera per soggetti svantaggiati: 
-L'associazione utilizzerà, nella denominazione ed in qualsivoglia segno distintivo o comunicazione rivolta al pubblico, la locuzione "organizzazione non lucrativa di utilità sociale" o l'acronimo "ONLUS".
-
 # ART. 2 - (Finalità)
 
 L’associazione è apartitica, non ha scopo di lucro e svolge attività di promozione e utilità sociale.
-oppure * solo se opera per soggetti svantaggiati: 
-L’associazione è apartitica, non ha scopo di lucro e persegue in modo esclusivo finalità di solidarietà sociale.
 Le finalità che si propone sono in particolare: 
-(specificare sia le finalità generali dell’associazione sia quelle specifiche, nonché le modalità per raggiungere lo scopo sociale)
 a)
 b)
 c)
