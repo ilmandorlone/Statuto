@@ -1,354 +1,173 @@
----
-title: Statuto Associazione di Promozione Sociale "MITTELAB"
-lang: italian
-date: 28/3/2016
-geometry: hmargin=1cm,vmargin=2cm
-header-includes: \input{header.tex}
-numbersections: true
----
-# Costituzione
+# ART. 1 – (Denominazione e sede)
 
-È costituita l'associazione di promozione sociale denominata "Mittelab"
-(di seguito detta anche "Associazione"). L'Associazione è indipendente,
-apartitica, aconfessionale, non persegue fini di lucro, né diretto né
-indiretto, con durata a tempo indeterminato ed assume la forma di
-"Associazione non riconosciuta" ai fini del Codice Civile e quella di
-"Ente non commerciale" ai fini fiscali.
+E’ costituita, nel rispetto del Codice Civile, della Legge 383/2000 e della normativa in materia, l’associazione di promozione sociale denominata: "Tecnopita"
+con sede in via / piazza ………………….……………..…...…..,  nel Comune di ………..……..……………...
 
+Il trasferimento della sede legale non comporta modifica statutaria, ma l’obbligo di comunicazione agli uffici competenti.
 
-# Sede
+2.	in aggiunta se opera per soggetti svantaggiati: 
+L'associazione utilizzerà, nella denominazione ed in qualsivoglia segno distintivo o comunicazione rivolta al pubblico, la locuzione "organizzazione non lucrativa di utilità sociale" o l'acronimo "ONLUS".
 
-L'Associazione ha sede in Trieste, via Manzoni 11. Il Consiglio
-Direttivo potrà con delibera trasferire la sede all'interno del
-territorio del Comune di Trieste; il trasferimento della sede legale non
-comporta modifica statutaria.
+# ART. 2 - (Finalità)
 
+L’associazione è apartitica, non ha scopo di lucro e svolge attività di promozione e utilità sociale.
+oppure * solo se opera per soggetti svantaggiati: 
+L’associazione è apartitica, non ha scopo di lucro e persegue in modo esclusivo finalità di solidarietà sociale.
+Le finalità che si propone sono in particolare: 
+(specificare sia le finalità generali dell’associazione sia quelle specifiche, nonché le modalità per raggiungere lo scopo sociale)
+a)
+b)
+c)
+in aggiunta se opera per soggetti svantaggiati: 
+L'associazione prevede il divieto di svolgere attività diverse da quelle menzionate all'art. 10 lettera a) del decreto legislativo 4 dicembre 1997 n. 460. 
 
-# Oggetto sociale, finalità e attività
+ART. 3 - (Soci)
 
-Mittelab si occupa di gestire un hackerspace di matrice nordeuropea, ovvero un luogo dove
-persone che hanno interessi comuni nel campo della tecnologia in
-generale e l'elettronica ed informatica in particolare possono
-collaborare e condividere conoscenze ed attrezzature. Mittelab favorisce
-e sostiene lo sviluppo di tale cultura, persegue finalità di promozione,
-utilità e solidarietà sociale attraverso la diffusione dei princìpi
-della Hacker Ethic e lo sviluppo di un dibattito attorno alle seguenti
-materie:
+Sono ammesse all’Associazione tutte le persone fisiche che ne condividono gli scopi e accettano il presente statuto e l’eventuale regolamento interno.
+L’organo competente a deliberare sulle domande di ammissione è l’Assemblea 
+(oppure* il Consiglio Direttivo). 
+Il diniego va motivato. Il richiedente, nella domanda di ammissione dovrà specificare le proprie complete generalità impegnandosi a versare la quota associativa. 
+Ci sono 3 categorie di soci:
+ordinari: sono coloro che versano la quota di iscrizione annualmente stabilita dall’Assemblea,
+sostenitori: sono coloro che oltre alla quota ordinaria, erogano contribuzioni volontarie straordinarie,
+benemeriti: sono persone nominate tali dall’Assemblea per meriti particolari acquisiti a favore dell’Associazione.
+4.	Non è ammessa la categoria dei soci temporanei. La quota associativa è intrasmissibile.
 
-a) difesa della libertà e dei diritti umani nella società digitale;
+ART. 4 - (Diritti e doveri dei soci)
 
-b) accesso alla rete Internet libero e aperto;
+I soci hanno diritto di eleggere gli organi sociali e di essere eletti negli stessi.
+Essi hanno diritto di essere informati sulle attività dell’associazione e di essere rimborsati per le spese effettivamente sostenute nello svolgimento dell’attività prestata.
+I soci devono versare nei termini la quota sociale e rispettare il presente statuto e l’eventuale regolamento interno.
+Gli aderenti svolgeranno la propria attività nell’associazione prevalentemente in modo personale, volontario e gratuito, senza fini di lucro, anche indiretto, in ragione delle disponibilità personali.
 
-c) condivisione della cultura e della conoscenza tecnico-scientifica.
+ART. 5 - (Recesso ed esclusione del socio)
 
-L'Associazione si pone inoltre lo scopo di favorire l'utilizzo
-consapevole degli strumenti informatici e contribuire attivamente al
-miglioramento e avanzamento del sapere e della cultura promuovendo la
-produzione e la diffusione di software libero, hardware libero e
-contenuti liberi per incentivare le possibilità di accesso alla
-conoscenza e alla formazione. Sono definite "libere" nel senso inteso
-dall'Associazione tutte le opere che sono state contrassegnate dai loro
-autori con una licenza che ne permetta l'utilizzo, lo studio, la modifica, la distribuzione.
+Il socio può recedere dall’associazione mediante comunicazione scritta all’Assemblea 
+(Oppure *  al Consiglio direttivo). 
+Il socio che contravviene ai doveri stabiliti dallo statuto può essere escluso dall’Associazione. 
+L’esclusione è deliberata dall’Assemblea con voto segreto e dopo avere ascoltato le giustificazioni dell’interessato. 
+(Oppure * E’ ammessa la decisione dell’organo direttivo con possibilità di appello entro 30 gg all’assemblea). 
+E’ comunque ammesso ricorso al giudice ordinario.
 
-Per il conseguimento delle proprie finalità l'Associazione potrà, sia
-direttamente sia in collaborazione con altre organizzazioni ed enti
-aventi simili fini istituzionali: organizzare, supportare o patrocinare
-eventi, fiere, seminari, convegni, conferenze, corsi, workshop; gestire
-server di rete, siti web, mailing-list; pubblicare libri, riviste,
-newsletter; effettuare o commissionare studi e ricerche; partecipare a
-progetti e riunioni in Italia e altri paesi; in generale promuovere la
-divulgazione della cultura in campo elettronico e/o informatico tra il
-pubblico anche a mezzo di supporti audiovisivi e di pubblicazioni;
-collaborare con le altre attività simili del territorio ed assecondando,
-qualora lo ritenga opportuno, le iniziative che dovessero sorgere a
-livello locale; compiere tutte le operazioni mobiliari, immobiliari e
-finanziarie ritenute necessarie, utili e opportune alla realizzazione
-dei predetti scopi; stipulare accordi o convenzioni con enti pubblici o
-privati, aziende, altre associazioni, o qualunque altro soggetto,
-pubblico o privato.
+ART. 6 - (Organi sociali)
 
-L'Associazione può svolgere ogni attività, anche diverse da quelle sopra
-indicate, purché  direttamente o indirettamente connesse a quelle
-statutarie, o quelle accessorie per natura in quanto integrative delle
-stesse.
+Gli organi dell’associazione sono:
+Assemblea dei soci,
+Consiglio direttivo,
+Presidente,
+Collegio dei Revisori dei Conti (organo eventuale.),
+Collegio dei Probiviri (organo eventuale).
+Tutte le cariche sociali sono assunte a titolo gratuito.
 
+ART. 7 - (Assemblea)
 
-# Soci
+L’Assemblea è l’organo sovrano dell’associazione ed è composta da tutti i soci.
+E’ convocata almeno una volta all’anno dal Presidente dell’associazione o da chi ne fa le veci mediante avviso scritto da inviare almeno 10 giorni prima di quello fissato per l’adunanza e contenente l’ordine del giorno dei lavori;
+L’Assemblea è inoltre convocata a richiesta di almeno un decimo dei soci o quando il Consiglio direttivo lo ritiene necessario.
+L’Assemblea può essere ordinaria o straordinaria. E’ straordinaria quella convocata per la modifica dello statuto e lo scioglimento dell’associazione. E’ ordinaria in tutti gli altri casi.
+ART. 8 - (Compiti dell’Assemblea)
 
-Possono essere soci dell'Associazione sia le persone fisiche che
-giuridiche che enti; le persone giuridiche e gli enti sono rappresentati
-in Assemblea da un delegato. L'adesione all'Associazione è a tempo
-indeterminato e non può essere disposta per un periodo temporaneo. I
-soci hanno tutti uguali diritti. L'adesione all'Associazione comporta,
-per l'associato maggiore di età e comunque per la persona giuridica
-ovvero per l'ente, il diritto di voto nell'Assemblea per l'approvazione
-e la modificazione dello Statuto e del Regolamento e per la nomina degli
-organi direttivi dell'Associazione. Ogni associato ha diritto di
-partecipare a tutte le attività dell'Associazione, di controllare il
-bilancio e di richiedere copia del resoconto dell'Assemblea annuale. La
-qualifica di socio non è trasmissibile. L'appartenenza all'Associazione
-ha carattere libero e volontario ma impegna gli aderenti al rispetto
-delle decisioni prese dai suoi Organi sociali, secondo le competenze
-statutarie, ed un comportamento corretto sia nelle relazioni interne con
-i soci che con i terzi.
+L’assemblea deve:
+approvare il rendiconto conto consuntivo e preventivo;
+fissare l’importo della quota sociale annuale;
+determinare le linee generali programmatiche dell’attività dell’associazione;
+approvare l’eventuale regolamento interno;
+deliberare in via definitiva sulle domande di nuove adesioni e sulla esclusione dei soci;
+eleggere il Presidente e il Consiglio Direttivo;
+deliberare su quant’altro demandatole per legge o per statuto, o sottoposto al suo esame dal Consiglio direttivo.
 
-Chi intende aderire all'Associazione deve rivolgere espressa richiesta
-scritta al Consiglio Direttivo, recante la dichiarazione di condividere
-le finalità che l'Associazione si propone e l'impegno ad approvarne ed
-osservarne Statuto e Regolamento. Il Consiglio Direttivo provvede alle
-domande di ammissione entro sessanta giorni dal loro ricevimento; in
-assenza di un provvedimento di diniego in forma scritta della domanda
-entro il termine predetto, essa si intende automaticamente accolta.
-Chiunque aderisca all'Associazione può in qualsiasi momento notificare
-la sua volontà di recedere dall'Associazione stessa; tale recesso ha
-efficacia immediata. In presenza di gravi motivi che abbiano arrecato
-danno morale o materiale all'Associazione, o in caso di inadempienza dei
-doveri previsti dal presente Statuto, chiunque partecipi
-all'Associazione può esserne escluso con deliberazione dell'Assemblea
-dei Soci. L'esclusione ha effetto dal trentesimo giorno successivo alla
-notifica del provvedimento di esclusione, il quale deve contenere le
-motivazioni per le quali l'esclusione sia stata deliberata. Nel caso che
-il soggetto non ammesso o escluso non condivida le ragioni del diniego
-dell'ammissione o dell'esclusione, può presentare un ricorso
-all'Assemblea dei Soci. 
+ART. 9 - (Validità Assemblee)
 
-Sono soci dell'Associazione:
+L’assemblea ordinaria è regolarmente costituita in prima convocazione se è presente la maggioranza degli iscritti aventi diritto di voto; in seconda convocazione, da tenersi anche nello stesso giorno, qualunque sia il numero dei presenti, in proprio o in delega.
+Non è ammessa più di una delega per ciascun aderente. 
+(oppure * Non sono ammesse più di tre deleghe per ciascun aderente).
+Le deliberazioni dell’assemblea ordinaria vengono prese a maggioranza dei presenti e rappresentati per delega, sono espresse con voto palese tranne quelle riguardanti le persone e la qualità delle persone (o quando l’Assemblea lo ritenga opportuno).
+L’assemblea straordinaria approva eventuali modifiche allo statuto con la presenza di 3/4 dei soci (Oppure * con la presenza dei 2/3 dei soci Oppure * con la presenza della metà più uno dei soci) e con decisione deliberata a maggioranza dei presenti; scioglie l’associazione e ne devolve il patrimonio col voto favorevole di ¾ dei soci.
+(Se prevista anche per l’assemblea straordinaria, la seconda convocazione non può derogare le maggioranze previste per la prima).
 
--   Founding Hackers: sono i soci che hanno sottoscritto l'Atto
-    Costitutivo;
--   Hackers: sono i soci ordinari;
--   Hungry Hackers: sono i soci studenti o disoccupati;
--   Phreakers: il Consiglio Direttivo può nominare soci benemeriti
-    (denominati "Phreakers") dell'Associazione le persone fisiche, giuridiche e/o enti che
-    effettuano versamenti al fondo di dotazione ritenuti di particolare
-    rilevanza ovvero che si sono particolarmente distinti nelle attività
-    di interesse dell'Associazione.
+ART. 10 - (Verbalizzazione)
 
-Ogni socio sarà libero di utilizzare gli strumenti a disposizione
-dell'Associazione per realizzare progetti personali di natura
-elettronica e/o informatica o collaborare nelle iniziative comuni.
+1.	Le discussioni e le deliberazioni dell’assemblea sono riassunte in un verbale redatto dal segretario (Oppure * da un componente dell’assemblea appositamente nominato) e sottoscritto dal presidente.
+2.	Ogni socio ha diritto di consultare il verbale e di trarne copia.
 
+ART. 11 - (Consiglio direttivo)
 
-# Organi sociali
+Il consiglio direttivo è composto da numero…… (precisare il numero dei componenti che deve essere dispari non inferiore a tre) membri eletti dall’assemblea tra i propri componenti.
+Il consiglio direttivo è validamente costituito  quando è presente la maggioranza dei componenti. (Nel caso in cui il consiglio direttivo fosse composto da soli tre membri, è validamente costituito quando sono presenti tutti). Esso delibera a maggioranza dei presenti.
+Il Consiglio direttivo compie tutti gli atti di ordinaria e straordinaria amministrazione non espressamente demandati all’Assemblea; redige e presenta all’assemblea il rapporto annuale sull’attività dell’associazione, il rendiconto consuntivo e preventivo.
+Il consiglio direttivo dura in carica per n. ……. anni (stabilire la durata) e i suoi componenti possono essere rieletti per n. ...… mandati (stabilire il numero massimo dei mandati).
 
-L'Assemblea dei Soci: si riunisce, anche fuori dalla sede sociale,
-almeno una volta l'anno entro il mese di giugno, per l'approvazione del bilancio e, con cadenza biennale, per l'elezione del Consiglio Direttivo e del Presidente. Essa inoltre:
+ART. 12 - (Presidente) 
 
--   delinea gli indirizzi generali dell'attività dell'Associazione;
--   delibera, su proposta del Consiglio Direttivo, sulla quota
-    associativa annuale;
--   approva, su proposta del Consiglio Direttivo, i regolamenti che
-    disciplinano lo svolgimento dell'attività dell'Associazione;
--   delibera sull'eventuale destinazione di utili o avanzi di gestione
-    comunque denominati, nonché di fondi, riserve o capitale accumulato
-    durante la vita dell'Associazione stessa, qualora ciò sia consentito
-    dalla legge e dal presente Statuto;
--   approva le modifiche al presente Statuto;
--   delibera scioglimento e liquidazione dell'Associazione e devoluzione
-    del suo patrimonio.
+Il Presidente ha la legale rappresentanza dell’associazione, presiede il Consiglio direttivo e l’assemblea; convoca l’assemblea dei soci e il Consiglio direttivo sia in caso di convocazioni ordinarie che straordinarie.
 
-L'Assemblea è convocata dal Presidente, ogni qualvolta questi lo ritenga
-opportuno oppure ne sia fatta richiesta da almeno un decimo dei soci
-aderenti o da almeno un terzo dei Consiglieri in carica. La convocazione
-dell'Assemblea sarà fatta mediante avviso da comunicarsi ai soci via
-lettera, posta elettronica (e-mail) o mezzi equipollenti all'indirizzo
-indicato dal socio almeno otto giorni prima della data fissata per la
-prima convocazione. L'avviso deve contenere l'elenco delle materie da
-trattare, l'indicazione del luogo dell'adunanza e quella della data e
-dell'ora della prima e della seconda convocazione, quest'ultima dovrà
-essere fissata almeno un giorno dopo la prima convocazione. L'Assemblea
-è valida qualunque sia l'oggetto da trattare: in prima convocazione
-quando sono presenti o rappresentati almeno la metà più uno dei soci; in
-seconda convocazione qualunque sia il numero dei voti dei soci presenti
-o rappresentati. Le deliberazioni sono prese a maggioranza assoluta di
-voti dei soci presenti o rappresentati all'adunanza. Quando si tratta di
-deliberare sullo scioglimento dell'Associazione, tanto in prima quanto
-in seconda convocazione, le deliberazioni devono essere prese col voto
-favorevole di almeno tre quarti dei soci aventi diritto al voto. Ogni
-socio ha diritto ad un voto. Le elezioni delle cariche sociali saranno
-fatte a maggioranza assoluta dei voti presenti, con voto segreto qualora
-richiesto da almeno cinque voti presenti, ma potranno anche avvenire per
-acclamazione. I soci che per qualsiasi motivo non possano intervenire
-personalmente all'Assemblea hanno facoltà di farsi rappresentare
-soltanto da altri soci mediante delega scritta. Ogni socio può ricevere
-un massimo di tre (3) deleghe. L'Assemblea è presieduta dal Presidente
-ed in sua assenza dal Vice-Presidente; mancando anch'esso, da una
-persona designata dall'Assemblea.
+ART. 13 - (Risorse economiche)
 
-Il Consiglio Direttivo: amministra l'Associazione ed è composto da un
-minimo di tre (3) ad un massimo di dieci (10) Consiglieri membri –
-compresi Presidente, Vice Presidente, Segretario, Tesoriere  – eletti fra
-i soci dall'Assemblea, che ne determina il numero. Nella prima riunione
-a seguito dell'elezione vengono designati tra i Consiglieri il Vice
-Presidente, il Segretario e il Tesoriere. I Consiglieri durano in carica due
-anni e sono rieleggibili. Dalla nomina a Consigliere non consegue alcun
-compenso, salvo il rimborso delle spese documentate sostenute per
-ragioni dell'ufficio ricoperto. Qualora per dimissioni o per altre cause
-venga a mancare uno o più consiglieri, il Consiglio Direttivo provvederà
-alla loro sostituzione mediante cooptazione, fino al termine del mandato
-originario del consigliere decaduto. Qualora per dimissioni o per altre
-cause venga a mancare, nel corso del medesimo esercizio sociale, la
-maggioranza dei componenti del Consiglio Direttivo, l'intero Consiglio
-si intende decaduto ed i residui membri del Consiglio Direttivo devono
-convocare immediatamente l'Assemblea per la nomina di un nuovo Consiglio
-Direttivo. Il Consiglio Direttivo è convocato dal Presidente o da chi lo
-sostituisce almeno due volte l'anno ovvero tutte le volte che egli lo
-riterrà utile oppure quando ne sia fatta domanda da almeno due
-Consiglieri. La convocazione è fatta a mezzo di lettera o posta
-elettronica (e-mail) o altro mezzo equipollente da spedirsi non meno di
-tre giorni prima dell'adunanza e, nei casi di urgenza, a mezzo di
-telegramma, telefax, posta elettronica (e-mail) o altro mezzo
-equipollente in modo che i Consiglieri ne siano informati almeno un
-giorno prima della riunione. Il Consiglio Direttivo è presieduto dal
-Presidente, ovvero in caso di sua assenza o impedimento, dal Vice
-Presidente, ovvero in caso di assenza o impedimento anche di
-quest'ultimo, dal Consigliere più anziano di età. Il Consiglio Direttivo
-è regolarmente costituito quando sia presente la maggioranza dei
-componenti in carica. Il Consiglio Direttivo delibera con il voto
-favorevole della maggioranza dei presenti. In caso di parità prevale il
-voto di chi presiede. I verbali contenti le deliberazioni del Consiglio
-Direttivo sono raccolte nell'apposito libro dei verbali e sono
-sottoscritte dal Presidente della riunione e dal Segretario.
+1.	Le risorse economiche dell’associazione sono costituite da:
+quote e contributi degli associati; 
+eredità, donazioni e legati; 
+contributi dello Stato, delle regioni, di enti locali, di enti o di istituzioni pubblici, anche finalizzati al sostegno di specifici e documentati programmi realizzati nell'ambito dei fini statutari; 
+contributi dell'Unione europea e di organismi internazionali; 
+entrate derivanti da prestazioni di servizi convenzionati; 
+(non inserire se l’associazione è ONLUS)
+proventi delle cessioni di beni e servizi agli associati e a terzi, anche attraverso lo svolgimento di attività economiche di natura commerciale, artigianale o agricola, svolte in maniera ausiliaria e sussidiaria e comunque finalizzate al raggiungimento degli obiettivi istituzionali; 
+erogazioni liberali degli associati e dei terzi; 
+entrate derivanti da iniziative promozionali finalizzate al proprio finanziamento, quali feste e sottoscrizioni anche a premi; 
+altre entrate compatibili con le finalità sociali dell'associazionismo di promozione sociale. 
+I proventi delle attività non possono, in nessun caso, essere divisi tra gli associati, anche in forma indiretta.
+L'associazione ha il divieto di distribuire, anche in modo indiretto, utili e avanzi di gestione nonché fondi, riserve o capitale durante la vita dell'associazione in aggiunta solo se opera per soggetti svantaggiati “a meno che la destinazione o la distribuzione non siano imposte per legge o siano effettuate a favore di altre ONLUS  che per legge, statuto o regolamento fanno parte della medesima ed unitaria struttura”. 
+L’associazione ha l'obbligo di impiegare gli utili o gli avanzi di gestione per la realizzazione delle attività istituzionali in aggiunta se opera per soggetti svantaggiati “e di quelle ad esse direttamente connesse”.
 
-Il Consiglio Direttivo è investito dei più ampi poteri per la gestione
-dell'Associazione e, specificamente, esso deve:
+ART. 14 - (Rendiconto economico-finanziario)
 
-1.  organizzare le iniziative dell'Associazione in genere;
-2.  determinare la quota associativa minima e le altre quote
-    associative, secondo quanto previsto dal Regolamento, da proporre
-    per l'approvazione all'Assemblea dei Soci; qualora la situazione del
-    bilancio lo consenta l'adesione all'Associazione potrà essere anche
-    gratuita, ovvero potrà anche essere eliminata ogni contribuzione
-    annuale da parte degli associati;
-3.  deliberare sull'ammissione e l'esclusione dei soci, nominare i soci
-    benemeriti, esaminare le proposte di nuove iniziative da parte degli
-    associati;
-4.  predisporre l'eventuale regolamento interno e le modifiche al
-    medesimo da proporre all'Assemblea Ordinaria dei Soci per
-    l'approvazione; 
-5.  predisporre il bilancio consuntivo;
-6.  controllare la gestione di tutte le comunicazioni esterne
-    (pubblicità tramite internet, volantinaggio, etc.) e dei beni
-    posseduti ed amministrati dall'Associazione;
-7.  predisporre e curare la tenuta dei libri sociali, del libro dei
-    verbali delle Assemblee, del libro soci;
-8.  porre in atto ogni attività che si renda necessaria od opportuna per
-    il funzionamento dell'amministrazione dell'Associazione.
+Il rendiconto economico-finanziario dell’associazione è annuale e decorre dal primo gennaio di ogni anno. Il conto consuntivo contiene tutte le entrate e le spese sostenute relative all’anno trascorso. Il conto preventivo contiene le previsioni di spesa e di entrata per l’esercizio annuale successivo.
+Il rendiconto economico-finanziario è predisposto dal Consiglio direttivo e approvato dall’assemblea generale ordinaria con le maggioranze previste dal presente statuto, depositato presso la sede dell’associazione almeno 20 gg. prima dell’assemblea e può essere consultato da ogni associato.
+Il conto consuntivo deve essere approvato entro il 30 aprile dell’anno successivo alla chiusura dell’esercizio sociale.
 
-Il Presidente: rappresenta l'Associazione stessa di fronte ai terzi e
-anche in giudizio. Su deliberazione del Consiglio Direttivo, il
-Presidente può attribuire la rappresentanza dell'Associazione anche ad
-estranei al Consiglio stesso. Al Presidente dell'Associazione compete,
-sulla base delle direttive emanate dall'Assemblea e dal Consiglio
-Direttivo, al quale comunque il Presidente riferisce circa l'attività
-compiuta, l'ordinaria amministrazione dell'Associazione. Il Presidente
-convoca e presiede l'Assemblea e il Consiglio Direttivo, cura
-l'esecuzione delle relative deliberazioni, sorveglia il buon andamento
-amministrativo dell'Associazione, verifica l'osservanza dello statuto e
-dei regolamenti, ne promuove la riforma ove se ne presenti la necessità.
+ART. 15 - (Scioglimento e devoluzione del patrimonio)
 
-Il Vice Presidente: sostituisce il Presidente in ogni sua attribuzione
-ogni qualvolta questi sia assente o comunque impedito nell'esercizio
-delle proprie funzioni. Il solo intervento del Vice Presidente
-costituisce per i terzi prova dell'impedimento o assenza del Presidente.
+L’eventuale scioglimento dell’Associazione sarà deciso soltanto dall’assemblea con le modalità di cui all’art. 9.
+In tal caso, il patrimonio, dopo la liquidazione, sarà devoluto a finalità di utilità sociale.
+Oppure * solo se opera per soggetti svantaggiati: 
+L'associazione avrà l'obbligo di devolvere il patrimonio dell'organizzazione, in caso di suo scioglimento per qualunque causa, ad altre ONLUS o organizzazioni a fini di pubblica utilità, salvo diversa destinazione imposta dalla legge.
 
-Il Segretario: svolge la funzione di verbalizzazione delle adunanze del
-Consiglio Direttivo. Il Segretario cura la tenuta del libro dei verbali delle
-Assemblee, del Consiglio Direttivo nonché del libro degli aderenti
-all'Associazione.
+ART. 16 - (Disposizioni finali)
 
-Il Tesoriere – ovvero il Segretario qualora l’Assemblea non abbia provveduto
-a nominare il Tesoriere - cura la gestione della cassa dell'Associazione e ne
-tiene la contabilità, effettua le relative verifiche, controlla la tenuta dei
-libri contabili, predispone, dal punto di vista contabile, il bilancio
-consuntivo e quello preventivo, accompagnandoli da idonea relazione contabile.
-
-L'Associazione può conferire l'incarico dello svolgimento delle proprie
-attività istituzionali a soggetti con adeguata qualifica professionale,
-anche erogando compensi proporzionati all'attività esercitata. Tali
-figure possono essere soggetti esterni dell'Associazione ovvero soci,
-qualora ne abbiano le necessarie qualifiche.
+Per tutto ciò che non è espressamente previsto dal presente statuto si applicano le disposizioni previste dal Codice civile e dalle leggi vigenti in materia.
 
 
-# Patrimonio
-
-Il patrimonio dell'Associazione è costituito dai beni mobili ed immobili
-che pervengono all'Associazione a qualsiasi titolo, da elargizioni o
-contributi da parte di enti pubblici e privati, persone fisiche o
-giuridiche, dagli avanzi netti di gestione.
-
-Per l'adempimento dei suoi compiti, l'Associazione dispone delle
-seguenti entrate:
-
-1.  dal fondo costituito dai conferimenti in denaro o beni mobili ed
-    immobili o altre utilità impiegabili per il perseguimento degli
-    scopi sociali conferiti dai soci;
-2.  quote associative, da corrispondersi dagli associati, il cui
-    ammontare, modalità e tempi di versamento sono stabiliti
-    dall'Assemblea dei Soci su proposta del Consiglio Direttivo;
-3.  eventuali donazioni, erogazioni e lasciti;
-4.  contributi ricevuti da enti pubblici o privati;
-5.  dagli introiti realizzati nello svolgimento della sua attività,
-    proventi derivanti dall'organizzazione di manifestazioni o
-    partecipazione ad esse e dell'organizzazione di corsi;
-6.  da ogni altra somma che, a qualsiasi titolo, sia versata
-    all'associazione;
-7.  dai redditi derivanti dal suo patrimonio;
-8.  da beni mobili od immobili acquistati impiegando le entità
-    patrimoniali di cui ai precedenti punti.
-
-I versamenti possono essere di qualsiasi entità, fatto salvo il
-versamento della quota associativa, e sono comunque a fondo perduto, non
-ripetibili né rivalutabili; in nessun caso, e quindi nemmeno in caso di
-scioglimento dell'Associazione né in caso di morte, di estinzione, di
-recesso o di esclusione dall'Associazione, può farsi luogo alla
-ripetizione di quanto versato all'Associazione a titolo di versamento.
-Il versamento non crea altri diritti di partecipazione.
-
-L'Associazione ha l'obbligo di impiegare gli utili o gli avanzi di
-gestione per la realizzazione delle attività istituzionali e di quelle
-ad esse direttamente connesse. È vietato distribuire, direttamente o
-indirettamente, eventuali utili o avanzi di gestione, nonché fondi,
-riserve o capitali durante la vita dell'Associazione ai soci, a meno che
-la destinazione o la distribuzione non siano imposte per legge. 
-
-Lo scioglimento anticipato dell'Associazione può essere proposto dal
-Consiglio Direttivo o da almeno il 50% degli associati e approvato
-dall'Assemblea dei Soci convocata in seduta straordinaria con specifico
-ordine del giorno. In caso di scioglimento dell'Associazione i beni che
-residuano dopo l'esaurimento della liquidazione sono devoluti ad altre
-associazioni o organizzazioni non lucrative di utilità sociale operanti
-nello stesso campo e con analoghe finalità di utilità sociale, secondo
-le indicazioni dell'Assemblea che nomina il liquidatore, salvo diversa
-destinazione imposta dalla legge.
 
 
-# Bilancio
 
-L'esercizio sociale si intende dal 1° gennaio al 31 dicembre di ogni
-anno. Entro il mese di marzo di ciascun anno il Consiglio Direttivo è
-convocato per la predisposizione del bilancio associativo. I bilanci
-devono restare depositati presso la sede dell'Associazione nei quindici
-(15) giorni che precedono l'Assemblea convocata per la loro
-approvazione, a disposizione di tutti coloro che abbiano motivato
-interesse alla loro lettura, e vengono inviati via lettera, fax, posta
-elettronica o mezzi equipollenti a qualunque socio ne faccia richiesta.
-Di esso deve essere presentato un Rendiconto Economico e Finanziario
-all'Assemblea dei Soci entro il 30 aprile dell'anno successivo;
-ulteriore deroga può essere prevista in caso di comprovata necessità o
-impedimento. Il rendiconto dell'esercizio dovrà evidenziare in modo
-analitico i costi e i proventi di competenza, nonché la consistenza
-finanziaria e le poste rettificate che consentano di determinare la
-competenza dell'esercizio.
 
-La previsione e la programmazione economica dell'anno sociale successivo
-è deliberata dall'Assemblea dei Soci con attinenza alla formulazione
-delle linee generali dell'attività dell'Associazione.
 
-Sono previsti la costituzione e l'incremento del fondo di riserva.
-L'utilizzo del fondo di riserva è vincolato alla decisione
-dell'Assemblea dei Soci.
 
-# Disposizioni finali
 
-L'Associazione adotta come riferimento legislativo la normativa in materia di Associazioni di Promozione Sociale, L. 383/2000, e le disposizioni contenute nel codice civile, rimandando a queste per quanto non previsto nel presente Statuto o dal regolamento interno.
+
+
+
+
+
+
+
+
+Oppure * = scegliere una delle opzioni indicate
+
+
+Le parti in grassetto sono da riferite alle Associazioni che intendono richiedere l’iscrizione all’Anagrafe Unica delle ONLUS (d. lgs. 460/97).
+
+
+
+
+
+
+
+
+PAGE  
+
+
+PAGE  4
+
+
+
+
