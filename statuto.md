@@ -1,6 +1,6 @@
 # ART. 1 – (Denominazione e sede)
 
-E’ costituita, nel rispetto del Codice Civile, della Legge 383/2000 e della normativa in materia, l’associazione di promozione sociale denominata: "Tecnopita"
+1. E’ costituita, nel rispetto del Codice Civile, della Legge 383/2000 e della normativa in materia, l’associazione di promozione sociale denominata: "Tecnopita"
 con sede in via / piazza ………………….……………..…...…..,  nel Comune di ………..……..……………...
 
 Il trasferimento della sede legale non comporta modifica statutaria, ma l’obbligo di comunicazione agli uffici competenti.
