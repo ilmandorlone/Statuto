@@ -19,11 +19,11 @@ L'Associazione può svolgere ogni attività, anche diverse da quelle sopra indic
 L’organo competente a deliberare sulle domande di ammissione è il Consiglio Direttivo.
 2. Il diniego va motivato. Il richiedente, nella domanda di ammissione dovrà specificare le proprie complete generalità impegnandosi a versare la quota associativa. 
 3. Ci sono 5 categorie di soci:
-  - Common: sono coloro che versano la quota di iscrizione annualmente stabilita dall’Assemblea,
-  - Tosat: sono i soci studenti che hanno diritto ad uno sconto sulla quota di iscrizione annuale,
-  - Supporter: sono coloro che oltre alla quota ordinaria, erogano contribuzioni volontarie straordinarie,
-  - Boss: sono persone nominate tali dall’Assemblea per meriti particolari acquisiti a favore dell’Associazione,
-  - Admin: sono le persone facenti parte del Consiglio Direttivo che hanno il diritto e il dovere di sorvegliare ed organizzare eventi e incontri ordinari, sono responsabili quando presenti degli spazi ed attrezzature utilizzate dall'associazione. Inoltre hanno la responsabilità di gestire server di rete, siti web, mailing-list di propietà dell'associazione; pubblicare libri, riviste, newsletter; effettuare o commissionare studi e ricerche; partecipare a progetti e riunioni in Italia e altri paesi; collaborare con le altre attività simili del territorio ed assecondando, qualora lo ritenga opportuno, le iniziative che dovessero sorgere a livello locale; compiere tutte le operazioni mobiliari, immobiliari e finanziarie ritenute necessarie, utili e opportune alla realizzazione dei predetti scopi; stipulare accordi o convenzioni con enti pubblici o privati, aziende, altre associazioni, o qualunque altro soggetto, pubblico o privato.
+  * Common: sono coloro che versano la quota di iscrizione annualmente stabilita dall’Assemblea,
+  * Tosat: sono i soci studenti che hanno diritto ad uno sconto sulla quota di iscrizione annuale,
+  * Supporter: sono coloro che oltre alla quota ordinaria, erogano contribuzioni volontarie straordinarie,
+  * Boss: sono persone nominate tali dall’Assemblea per meriti particolari acquisiti a favore dell’Associazione,
+  * Admin: sono le persone facenti parte del Consiglio Direttivo che hanno il diritto e il dovere di sorvegliare ed organizzare eventi e incontri ordinari, sono responsabili quando presenti degli spazi ed attrezzature utilizzate dall'associazione. Inoltre hanno la responsabilità di gestire server di rete, siti web, mailing-list di propietà dell'associazione; pubblicare libri, riviste, newsletter; effettuare o commissionare studi e ricerche; partecipare a progetti e riunioni in Italia e altri paesi; collaborare con le altre attività simili del territorio ed assecondando, qualora lo ritenga opportuno, le iniziative che dovessero sorgere a livello locale; compiere tutte le operazioni mobiliari, immobiliari e finanziarie ritenute necessarie, utili e opportune alla realizzazione dei predetti scopi; stipulare accordi o convenzioni con enti pubblici o privati, aziende, altre associazioni, o qualunque altro soggetto, pubblico o privato.
 4. Non è ammessa la categoria dei soci temporanei. La quota associativa è intrasmissibile.
 
 # ART. 4 - (Diritti e doveri dei soci)
