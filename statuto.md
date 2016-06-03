@@ -19,7 +19,7 @@ L'Associazione può svolgere ogni attività, anche diverse da quelle sopra indic
 L’organo competente a deliberare sulle domande di ammissione è il Consiglio Direttivo.
 2. Il diniego va motivato. Il richiedente, nella domanda di ammissione dovrà specificare le proprie complete generalità impegnandosi a versare la quota associativa. 
 3. Ci sono 5 categorie di soci:
-  * _Common_: sono coloro che versano la quota di iscrizione annualmente stabilita dall’Assemblea,
+  * ___Common___: sono coloro che versano la quota di iscrizione annualmente stabilita dall’Assemblea,
   * _Tosat_: sono i soci studenti che hanno diritto ad uno sconto sulla quota di iscrizione annuale,
   * _Supporter_: sono coloro che oltre alla quota ordinaria, erogano contribuzioni volontarie straordinarie,
   * _Boss_: sono persone nominate tali dall’Assemblea per meriti particolari acquisiti a favore dell’Associazione,
