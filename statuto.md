@@ -28,69 +28,69 @@ L’organo competente a deliberare sulle domande di ammissione è il Consiglio D
 
 # ART. 4 - (Diritti e doveri dei soci)
 
-I soci hanno diritto di eleggere gli organi sociali e di essere eletti negli stessi.
-Essi hanno diritto di essere informati sulle attività dell’associazione e di essere rimborsati per le spese effettivamente sostenute nello svolgimento dell’attività prestata.
-I soci devono versare nei termini la quota sociale e rispettare il presente statuto e il regolamento interno.
-Gli aderenti svolgeranno la propria attività nell’associazione prevalentemente in modo personale, volontario e gratuito, senza fini di lucro, anche indiretto, in ragione delle disponibilità personali.
+1. I soci hanno diritto di eleggere gli organi sociali e di essere eletti negli stessi.
+2. Essi hanno diritto di essere informati sulle attività dell’associazione e di essere rimborsati per le spese effettivamente sostenute nello svolgimento dell’attività prestata.
+3. I soci devono versare nei termini la quota sociale e rispettare il presente statuto e il regolamento interno.
+4. Gli aderenti svolgeranno la propria attività nell’associazione prevalentemente in modo personale, volontario e gratuito, senza fini di lucro, anche indiretto, in ragione delle disponibilità personali.
 
 # ART. 5 - (Recesso ed esclusione del socio)
 
-Il socio può recedere dall’Associazione mediante comunicazione scritta al Consiglio Direttivo, la quota associativa in questo caso non viene rimborsata.
-Il socio che contravviene ai doveri stabiliti dallo statuto può essere escluso dall’Associazione. 
-L’esclusione è deliberata dall’Assemblea con voto segreto e dopo avere ascoltato le giustificazioni dell’interessato.  
+1. Il socio può recedere dall’Associazione mediante comunicazione scritta al Consiglio Direttivo, la quota associativa in questo caso non viene rimborsata.
+2. Il socio che contravviene ai doveri stabiliti dallo statuto può essere escluso dall’Associazione. 
+3. L’esclusione è deliberata dall’Assemblea con voto segreto e dopo avere ascoltato le giustificazioni dell’interessato.  
 E’ comunque ammesso ricorso al giudice ordinario.
 
 # ART. 6 - (Organi sociali)
 
-Gli organi dell’associazione sono:
-Assemblea dei soci,
-Consiglio direttivo.
-Tutte le cariche sociali sono assunte a titolo gratuito.
+1. Gli organi dell’associazione sono:
+  - Assemblea dei soci,
+  - Consiglio direttivo.
+2. Tutte le cariche sociali sono assunte a titolo gratuito.
 
 # ART. 7 - (Assemblea)
 
-L’Assemblea è l’organo sovrano dell’associazione ed è composta da tutti i soci.
-E’ convocata almeno una volta all’anno dal Consiglio Direttivo dell’associazione o da chi ne fa le veci mediante avviso scritto da inviare almeno 10 giorni prima di quello fissato per l’adunanza e contenente l’ordine del giorno dei lavori;
-L’Assemblea è inoltre convocata a richiesta di almeno un decimo dei soci o quando il Consiglio Direttivo lo ritiene necessario.
-L’Assemblea può essere ordinaria o straordinaria. E’ straordinaria quella convocata per la modifica dello statuto e lo scioglimento dell’Associazione. E’ ordinaria in tutti gli altri casi.
+1. L’Assemblea è l’organo sovrano dell’associazione ed è composta da tutti i soci.
+2. E’ convocata almeno una volta all’anno dal Consiglio Direttivo dell’associazione o da chi ne fa le veci mediante avviso scritto da inviare almeno 10 giorni prima di quello fissato per l’adunanza e contenente l’ordine del giorno dei lavori;
+3. L’Assemblea è inoltre convocata a richiesta di almeno un decimo dei soci o quando il Consiglio Direttivo lo ritiene necessario.
+4. L’Assemblea può essere ordinaria o straordinaria. E’ straordinaria quella convocata per la modifica dello statuto e lo scioglimento dell’Associazione. E’ ordinaria in tutti gli altri casi.
 
 # ART. 8 - (Compiti dell’Assemblea)
 
-L’assemblea deve:
-approvare il rendiconto conto consuntivo e preventivo;
-determinare le linee generali programmatiche dell’attività dell’associazione;
-approvare il regolamento interno;
-deliberare in via definitiva sulle domande di nuove adesioni e sulla esclusione dei soci;
-eleggere il Consiglio Direttivo;
-deliberare su quant’altro demandatole per legge o per statuto, o sottoposto al suo esame dal Consiglio direttivo.
+1. L’assemblea deve:
+  - approvare il rendiconto conto consuntivo e preventivo;
+  - determinare le linee generali programmatiche dell’attività dell’associazione;
+  - approvare il regolamento interno;
+  - deliberare in via definitiva sulle domande di nuove adesioni e sulla esclusione dei soci;
+  - eleggere il Consiglio Direttivo;
+  - deliberare su quant’altro demandatole per legge o per statuto, o sottoposto al suo esame dal Consiglio direttivo.
 
 # ART. 9 - (Validità Assemblee)
 
-L’assemblea ordinaria è regolarmente costituita in prima convocazione se è presente la maggioranza degli iscritti aventi diritto di voto; in seconda convocazione, da tenersi anche nello stesso giorno, qualunque sia il numero dei presenti, in proprio o in delega.
-Non è ammessa più di una delega per ciascun aderente. 
-Le deliberazioni dell’assemblea ordinaria vengono prese a maggioranza dei presenti e rappresentati per delega, sono espresse con voto palese tranne quelle riguardanti le persone e la qualità delle persone (o quando l’Assemblea lo ritenga opportuno).
-L’assemblea straordinaria approva eventuali modifiche allo statuto con la presenza dei 2/3 dei soci e con decisione deliberata a maggioranza dei presenti; scioglie l’associazione e ne devolve il patrimonio col voto favorevole di 3/4 dei soci.
+1. L’assemblea ordinaria è regolarmente costituita in prima convocazione se è presente la maggioranza degli iscritti aventi diritto di voto; in seconda convocazione, da tenersi anche nello stesso giorno, qualunque sia il numero dei presenti, in proprio o in delega.
+2. Non è ammessa più di una delega per ciascun aderente. 
+3. Le deliberazioni dell’assemblea ordinaria vengono prese a maggioranza dei presenti e rappresentati per delega, sono espresse con voto palese tranne quelle riguardanti le persone e la qualità delle persone (o quando l’Assemblea lo ritenga opportuno).
+4. L’assemblea straordinaria approva eventuali modifiche allo statuto con la presenza dei 2/3 dei soci e con decisione deliberata a maggioranza dei presenti; scioglie l’associazione e ne devolve il patrimonio col voto favorevole di 3/4 dei soci.
 (Se prevista anche per l’assemblea straordinaria, la seconda convocazione non può derogare le maggioranze previste per la prima).
 
 # ART. 10 - (Verbalizzazione)
 
-1.	Le discussioni e le deliberazioni dell’assemblea sono riassunte in un verbale redatto dal segretario e sottoscritto dal presidente.
-2.	Ogni socio ha diritto di consultare il verbale e di trarne copia.
+1. Le discussioni e le deliberazioni dell’assemblea sono riassunte in un verbale redatto dal segretario e sottoscritto dal presidente.
+2. Ogni socio ha diritto di consultare il verbale e di trarne copia.
 
 # ART. 11 - (Consiglio direttivo)
 
-Il Consiglio Direttivo è composto da 3 a 7 membri eletti dall’assemblea tra i propri componenti.
-Il Consiglio Direttivo è validamente costituito quando è presente la maggioranza dei componenti. (Nel caso in cui il consiglio direttivo fosse composto da soli tre membri, è validamente costituito quando sono presenti tutti). Esso delibera a maggioranza dei presenti.
-Il Consiglio Direttivo compie tutti gli atti di ordinaria e straordinaria amministrazione non espressamente demandati all’Assemblea; redige e presenta all’assemblea il rapporto annuale sull’attività dell’associazione, il rendiconto consuntivo e preventivo.
-Il Consiglio Direttivo dura in carica per n. 3 anni e i suoi componenti possono essere rieletti per n. 1 mandato.
+1. Il Consiglio Direttivo è composto da 3 a 7 membri eletti dall’assemblea tra i propri componenti.
+2. Il Consiglio Direttivo è validamente costituito quando è presente la maggioranza dei componenti. (Nel caso in cui il consiglio direttivo fosse composto da soli tre membri, è validamente costituito quando sono presenti tutti). Esso delibera a maggioranza dei presenti.
+3. Il Consiglio Direttivo compie tutti gli atti di ordinaria e straordinaria amministrazione non espressamente demandati all’Assemblea; redige e presenta all’assemblea il rapporto annuale sull’attività dell’associazione, il rendiconto consuntivo e preventivo.
+4. Il Consiglio Direttivo dura in carica per n. 3 anni e i suoi componenti possono essere rieletti per n. 1 mandato.
 
 # ART. 12 - (Presidente) 
 
-Il Presidente ha la legale rappresentanza dell’associazione, è un membro del Consiglio Direttivo e presiede l’assemblea; convoca l’assemblea dei soci e il Consiglio Direttivo sia in caso di convocazioni ordinarie che straordinarie.
+1. Il Presidente ha la legale rappresentanza dell’associazione, è un membro del Consiglio Direttivo e presiede l’assemblea; convoca l’assemblea dei soci e il Consiglio Direttivo sia in caso di convocazioni ordinarie che straordinarie.
 
 # ART. 13 - (Risorse economiche)
 
-Le risorse economiche dell’associazione sono costituite da:
+1. Le risorse economiche dell’associazione sono costituite da:
 - quote e contributi degli associati; 
 - eredità, donazioni e legati; 
 - contributi dello Stato, delle regioni, di enti locali, di enti o di istituzioni pubblici, anche finalizzati al sostegno di specifici e documentati programmi realizzati nell'ambito dei fini statutari; 
@@ -100,20 +100,20 @@ Le risorse economiche dell’associazione sono costituite da:
 - erogazioni liberali degli associati e dei terzi; 
 - entrate derivanti da iniziative promozionali finalizzate al proprio finanziamento, quali feste e sottoscrizioni anche a premi; 
 - altre entrate compatibili con le finalità sociali dell'associazionismo di promozione sociale. 
-I proventi delle attività non possono, in nessun caso, essere divisi tra gli associati, anche in forma indiretta.
-L'associazione ha il divieto di distribuire, anche in modo indiretto, utili e avanzi di gestione nonché fondi, riserve o capitale durante la vita dell'associazione.
-L’associazione ha l'obbligo di impiegare gli utili o gli avanzi di gestione per la realizzazione delle attività istituzionali.
+2. I proventi delle attività non possono, in nessun caso, essere divisi tra gli associati, anche in forma indiretta.
+3. L'associazione ha il divieto di distribuire, anche in modo indiretto, utili e avanzi di gestione nonché fondi, riserve o capitale durante la vita dell'associazione.
+4. L’associazione ha l'obbligo di impiegare gli utili o gli avanzi di gestione per la realizzazione delle attività istituzionali.
 
 # ART. 14 - (Rendiconto economico-finanziario)
 
-Il rendiconto economico-finanziario dell’associazione è annuale e decorre dal primo gennaio di ogni anno. Il conto consuntivo contiene tutte le entrate e le spese sostenute relative all’anno trascorso. Il conto preventivo contiene le previsioni di spesa e di entrata per l’esercizio annuale successivo.
-Il rendiconto economico-finanziario è predisposto dal Consiglio Direttivo e approvato dall’assemblea generale ordinaria con le maggioranze previste dal presente statuto, depositato presso la sede dell’associazione almeno 20 gg. prima dell’assemblea e può essere consultato da ogni associato.
-Il conto consuntivo deve essere approvato entro il 30 aprile dell’anno successivo alla chiusura dell’esercizio sociale.
+1. Il rendiconto economico-finanziario dell’associazione è annuale e decorre dal primo gennaio di ogni anno. Il conto consuntivo contiene tutte le entrate e le spese sostenute relative all’anno trascorso. Il conto preventivo contiene le previsioni di spesa e di entrata per l’esercizio annuale successivo.
+2. Il rendiconto economico-finanziario è predisposto dal Consiglio Direttivo e approvato dall’assemblea generale ordinaria con le maggioranze previste dal presente statuto, depositato presso la sede dell’associazione almeno 20 gg. prima dell’assemblea e può essere consultato da ogni associato.
+3. Il conto consuntivo deve essere approvato entro il 30 aprile dell’anno successivo alla chiusura dell’esercizio sociale.
 
 # ART. 15 - (Scioglimento e devoluzione del patrimonio)
 
-L’eventuale scioglimento dell’Associazione sarà deciso soltanto dall’assemblea con le modalità di cui all’art. 9.
-In tal caso, il patrimonio, dopo la liquidazione, sarà devoluto a finalità di utilità sociale.
+1. L’eventuale scioglimento dell’Associazione sarà deciso soltanto dall’assemblea con le modalità di cui all’art. 9.
+2. In tal caso, il patrimonio, dopo la liquidazione, sarà devoluto a finalità di utilità sociale.
 
 # ART. 16 - (Disposizioni finali)
 
