@@ -3,7 +3,7 @@
 1. E’ costituita, nel rispetto del Codice Civile, della Legge 383/2000 e della normativa in materia, l’associazione di promozione sociale denominata: "Tecnopita"
 con sede in via / piazza ………………….……………..…...…..,  nel Comune di ………..……..……………...
 
-  Il trasferimento della sede legale non comporta modifica statutaria, ma l’obbligo di comunicazione agli uffici competenti.
+2. Il trasferimento della sede legale non comporta modifica statutaria, ma l’obbligo di comunicazione agli uffici competenti.
 
 # ART. 2 - (Finalità)
 
@@ -32,6 +32,7 @@ L’organo competente a deliberare sulle domande di ammissione è il Consiglio D
 2. Essi hanno diritto di essere informati sulle attività dell’associazione e di essere rimborsati per le spese effettivamente sostenute nello svolgimento dell’attività prestata.
 3. I soci devono versare nei termini la quota sociale e rispettare il presente statuto e il regolamento interno.
 4. Gli aderenti svolgeranno la propria attività nell’associazione prevalentemente in modo personale, volontario e gratuito, senza fini di lucro, anche indiretto, in ragione delle disponibilità personali.
+5. Tutti i soci sono tenuti, una volta finita un attività di studio, ricerca e/o realizzazione di un progetto, a documentare lo stesso utilizzando l'apposito modulo definito dal regolamento interno ed allegarci assieme l'eventuale materiale cartaceo/digitale
 
 # ART. 5 - (Recesso ed esclusione del socio)
 
@@ -43,8 +44,8 @@ E’ comunque ammesso ricorso al giudice ordinario.
 # ART. 6 - (Organi sociali)
 
 1. Gli organi dell’associazione sono:
-  - Assemblea dei soci,
-  - Consiglio direttivo.
+  - Assemblea dei Soci,
+  - Consiglio Direttivo (in cui sono presenti: il Presidente, il Vicepresidente e il Segretario)
 2. Tutte le cariche sociali sono assunte a titolo gratuito.
 
 # ART. 7 - (Assemblea)
