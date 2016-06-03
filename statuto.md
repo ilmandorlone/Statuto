@@ -91,15 +91,15 @@ E’ comunque ammesso ricorso al giudice ordinario.
 # ART. 13 - (Risorse economiche)
 
 1. Le risorse economiche dell’associazione sono costituite da:
-- quote e contributi degli associati; 
-- eredità, donazioni e legati; 
-- contributi dello Stato, delle regioni, di enti locali, di enti o di istituzioni pubblici, anche finalizzati al sostegno di specifici e documentati programmi realizzati nell'ambito dei fini statutari; 
-- contributi dell'Unione europea e di organismi internazionali; 
-- entrate derivanti da prestazioni di servizi convenzionati; 
-- proventi delle cessioni di beni e servizi agli associati e a terzi, anche attraverso lo svolgimento di attività economiche di natura commerciale, artigianale o agricola, svolte in maniera ausiliaria e sussidiaria e comunque finalizzate al raggiungimento degli obiettivi istituzionali; 
-- erogazioni liberali degli associati e dei terzi; 
-- entrate derivanti da iniziative promozionali finalizzate al proprio finanziamento, quali feste e sottoscrizioni anche a premi; 
-- altre entrate compatibili con le finalità sociali dell'associazionismo di promozione sociale. 
+  - quote e contributi degli associati; 
+  - eredità, donazioni e legati; 
+  - contributi dello Stato, delle regioni, di enti locali, di enti o di istituzioni pubblici, anche finalizzati al sostegno di specifici e documentati programmi realizzati nell'ambito dei fini statutari; 
+  - contributi dell'Unione europea e di organismi internazionali; 
+  - entrate derivanti da prestazioni di servizi convenzionati; 
+  - proventi delle cessioni di beni e servizi agli associati e a terzi, anche attraverso lo svolgimento di attività economiche di natura commerciale, artigianale o agricola, svolte in maniera ausiliaria e sussidiaria e comunque finalizzate al raggiungimento degli obiettivi istituzionali; 
+  - erogazioni liberali degli associati e dei terzi; 
+  - entrate derivanti da iniziative promozionali finalizzate al proprio finanziamento, quali feste e sottoscrizioni anche a premi; 
+  - altre entrate compatibili con le finalità sociali dell'associazionismo di promozione sociale. 
 2. I proventi delle attività non possono, in nessun caso, essere divisi tra gli associati, anche in forma indiretta.
 3. L'associazione ha il divieto di distribuire, anche in modo indiretto, utili e avanzi di gestione nonché fondi, riserve o capitale durante la vita dell'associazione.
 4. L’associazione ha l'obbligo di impiegare gli utili o gli avanzi di gestione per la realizzazione delle attività istituzionali.
