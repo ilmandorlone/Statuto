@@ -1,7 +1,7 @@
 # ART. 1 – (Denominazione e sede)
 
-1. E’ costituita, nel rispetto del Codice Civile, della Legge 383/2000 e della normativa in materia, l’associazione di promozione sociale denominata: "Tecnopita"
-con sede in via / piazza ………………….……………..…...…..,  nel Comune di ………..……..……………...
+1. E’ costituita, nel rispetto del Codice Civile, della Legge 383/2000 e della normativa in materia, l’associazione di promozione sociale denominata: "Tecnopita" 
+con sede in via san Rocco e Cortivon n°65/1, nel Comune di Valdobbiadene, provincia di Treviso
 
 2. Il trasferimento della sede legale non comporta modifica statutaria, ma l’obbligo di comunicazione agli uffici competenti.
 
@@ -23,7 +23,7 @@ L’organo competente a deliberare sulle domande di ammissione è il Consiglio D
   * __Tosat__ : sono i soci studenti che hanno diritto ad uno sconto sulla quota di iscrizione annuale,
   * __Supporter__ : sono coloro che oltre alla quota ordinaria, erogano contribuzioni volontarie straordinarie,
   * __Boss__ : sono persone nominate tali dall’Assemblea per meriti particolari acquisiti a favore dell’Associazione,
-  * __Admin__ : sono le persone facenti parte del Consiglio Direttivo che hanno il diritto e il dovere di sorvegliare ed organizzare eventi e incontri ordinari, sono responsabili quando presenti degli spazi ed attrezzature utilizzate dall'associazione. Inoltre hanno la responsabilità di gestire server di rete, siti web, mailing-list di propietà dell'associazione; pubblicare libri, riviste, newsletter; effettuare o commissionare studi e ricerche; partecipare a progetti e riunioni in Italia e altri paesi; collaborare con le altre attività simili del territorio ed assecondando, qualora lo ritenga opportuno, le iniziative che dovessero sorgere a livello locale; compiere tutte le operazioni mobiliari, immobiliari e finanziarie ritenute necessarie, utili e opportune alla realizzazione dei predetti scopi; stipulare accordi o convenzioni con enti pubblici o privati, aziende, altre associazioni, o qualunque altro soggetto, pubblico o privato.
+* __Admin__ : sono le persone facenti parte del Consiglio Direttivo che hanno il diritto e il dovere di sorvegliare ed organizzare eventi e incontri ordinari, sono responsabili quando presenti degli spazi ed attrezzature utilizzate dall'associazione. Inoltre hanno la responsabilità di gestire server di rete, siti web, mailing-list di propietà dell'associazione; gestire il "libro dei progetti, studi e ricerche"; pubblicare libri, riviste, newsletter; effettuare o commissionare studi e ricerche; partecipare a progetti e riunioni in Italia e altri paesi; collaborare con le altre attività simili del territorio ed assecondando, qualora lo ritenga opportuno, le iniziative che dovessero sorgere a livello locale; compiere tutte le operazioni mobiliari, immobiliari e finanziarie ritenute necessarie, utili e opportune alla realizzazione dei predetti scopi; stipulare accordi o convenzioni con enti pubblici o privati, aziende, altre associazioni, o qualunque altro soggetto, pubblico o privato.
 4. Non è ammessa la categoria dei soci temporanei. La quota associativa è intrasmissibile.
 
 # ART. 4 - (Diritti e doveri dei soci)
@@ -32,8 +32,8 @@ L’organo competente a deliberare sulle domande di ammissione è il Consiglio D
 2. Essi hanno diritto di essere informati sulle attività dell’associazione e di essere rimborsati per le spese effettivamente sostenute nello svolgimento dell’attività prestata.
 3. I soci devono versare nei termini la quota sociale e rispettare il presente statuto e il regolamento interno.
 4. Gli aderenti svolgeranno la propria attività nell’associazione prevalentemente in modo personale, volontario e gratuito, senza fini di lucro, anche indiretto, in ragione delle disponibilità personali.
-5. I soci hanno il diritto di consultare tutta la documentazione ed il materiale prodotto dall'associazione, mantenendo uno spirito di condivisione in linea con la filosofia del software ed hardware libero
-6. Tutti i soci sono tenuti, una volta finita un' attività di studio, ricerca e/o realizzazione di un progetto, a documentare lo stesso utilizzando l'apposito modello con punti essenziali, descrizione e spiegazione dettagliata del percorso e delle modalità con cui si è svolta l'attività. L'intero materiale di progetto/studio cartaceo e/o informatico e la documentazione sul risultato (codice sorgente, software, disegni progettuali e schemi elettrici) devono essere allegati al modello in formato cartaceo e dove necessario su supporti digitali (cd/dvd/flash drive usb). Il tutto deve essere allegato ad una licenza libera decisa dal Consiglio Direttivo. Tutto il materiale sopra citato deve essere contenuto nel libro dei progetti e pubblicato sul sito ufficiale dell'associazione.
+5. I soci hanno il diritto di consultare tutta la documentazione ed il materiale prodotto dall'associazione, mantenendo uno spirito di condivisione in linea con la filosofia del software ed hardware libero.
+6. Tutti i soci sono tenuti, una volta finita un' attività di studio, ricerca e/o realizzazione di un progetto, a documentare lo stesso utilizzando l'apposito modello con punti essenziali, descrizione e spiegazione dettagliata del percorso e delle modalità con cui si è svolta l'attività. L'intero materiale di progetto/studio cartaceo e/o informatico e la documentazione sul risultato (codice sorgente, software, disegni progettuali e schemi elettrici) devono essere allegati al modello in formato cartaceo e dove necessario su supporti digitali (cd/dvd/flash drive usb). Il tutto deve essere allegato ad una licenza libera decisa dal Consiglio Direttivo. Tutto il materiale sopra citato deve essere contenuto nel "libro dei progetti, studi e ricerche" e pubblicato sul sito ufficiale dell'associazione.
 
 # ART. 5 - (Recesso ed esclusione del socio)
 
