@@ -32,7 +32,8 @@ L’organo competente a deliberare sulle domande di ammissione è il Consiglio D
 2. Essi hanno diritto di essere informati sulle attività dell’associazione e di essere rimborsati per le spese effettivamente sostenute nello svolgimento dell’attività prestata.
 3. I soci devono versare nei termini la quota sociale e rispettare il presente statuto e il regolamento interno.
 4. Gli aderenti svolgeranno la propria attività nell’associazione prevalentemente in modo personale, volontario e gratuito, senza fini di lucro, anche indiretto, in ragione delle disponibilità personali.
-5. Tutti i soci sono tenuti, una volta finita un attività di studio, ricerca e/o realizzazione di un progetto, a documentare lo stesso utilizzando l'apposito modulo definito dal regolamento interno ed allegarci assieme l'eventuale materiale cartaceo/digitale
+5. I soci hanno il diritto di consultare tutta la documentazione ed il materiale prodotto dall'associazione, mantenendo uno spirito di condivisione in linea con la filosofia del software ed hardware libero
+6. Tutti i soci sono tenuti, una volta finita un' attività di studio, ricerca e/o realizzazione di un progetto, a documentare lo stesso utilizzando l'apposito modello con punti essenziali, descrizione e spiegazione dettagliata del percorso e delle modalità con cui si è svolta l'attività. L'intero materiale di progetto/studio cartaceo e/o informatico e la documentazione sul risultato (codice sorgente, software, disegni progettuali e schemi elettrici) devono essere allegati al modello in formato cartaceo e dove necessario su supporti digitali (cd/dvd/flash drive usb). Il tutto deve essere allegato ad una licenza libera decisa dal Consiglio Direttivo. Tutto il materiale sopra citato deve essere contenuto nel libro dei progetti e pubblicato sul sito ufficiale dell'associazione.
 
 # ART. 5 - (Recesso ed esclusione del socio)
 
