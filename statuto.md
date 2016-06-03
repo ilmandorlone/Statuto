@@ -7,8 +7,8 @@ con sede in via / piazza ………………….……………..…...…..,  ne
 
 # ART. 2 - (Finalità)
 
-L’Associazione è apartitica, non ha scopo di lucro e svolge attività di promozione e utilità sociale.
-L'obiettivo che si propone è di riunire le persone che hanno interessi comuni nel campo della tecnologia, nello specifico dell'elettronica e informatica; collaborando e condividendo conoscenze ed attrezzature.
+1. L’Associazione è apartitica, non ha scopo di lucro e svolge attività di promozione e utilità sociale.
+2. L'obiettivo che si propone è di riunire le persone che hanno interessi comuni nel campo della tecnologia, nello specifico dell'elettronica e informatica; collaborando e condividendo conoscenze ed attrezzature.
 Favorisce e sostiene lo sviluppo di tale cultura, persegue finalità di promozione, utilità e solidarietà sociale, attraverso la diffusione dei principi dell'hardware e software libero; anche al pubblico utilizzando pubblicazioni e supporti audiovisivi.
 Per il conseguimento delle proprie finalità l'Associazione potrà, sia direttamente sia in collaborazione con altre organizzazioni ed enti aventi simili fini istituzionali: organizzare, supportare o patrocinare eventi, fiere, seminari, convegni, conferenze, corsi, workshop.
 L'Associazione può svolgere ogni attività, anche diverse da quelle sopra indicate, purché  direttamente o indirettamente connesse a quelle statutarie, o quelle accessorie per natura in quanto integrative delle stesse.
